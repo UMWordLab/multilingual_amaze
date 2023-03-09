@@ -2,7 +2,7 @@
 
 This repository hosts the scripts and resources to run our Jupyter/Google Colab-based Mandarin A-maze and Multilingual A-maze scripts. For more details about the purpose and experimental testing of this project, see the [lab webpage for our HSP 2023 poster](https://umwordlab.github.io/output/HSP2023_maze/). 
 
-Project Contributors: Yizhi Tang, [Lucy Yu-Chuan Chiang](https://sites.google.com/a/umich.edu/yu-chuan-chiang/home), Wei-Jie Zhou, Sohee Chung, [Lisa Levinson](https://lisalevinson.github.io/)
+Project Contributors: [Yizhi Tang](https://github.com/tangyizhi2000), [Lucy Yu-Chuan Chiang](https://sites.google.com/a/umich.edu/yu-chuan-chiang/home), [Wei-Jie Zhou](https://github.com/tooweisiannn), [Sohee Chung](https://github.com/soheechung), [Lisa Levinson](https://lisalevinson.github.io/)
 
 The notebooks can be run on Google Colab without any local installation of Python. To do so, click on the "open in Colab" button at the top of the notebook.
 
