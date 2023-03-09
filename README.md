@@ -1,8 +1,14 @@
 # Multilingual A-maze
 
-This repository hosts the scripts and resources to run our Jupyter/Google Colab-based Mandarin A-maze and Multilingual A-maze scripts.
+This repository hosts the scripts and resources to run our Jupyter/Google Colab-based Mandarin A-maze and Multilingual A-maze scripts. For more details about the purpose and experimental testing of this project, see the [lab webpage for our HSP 2023 poster](https://umwordlab.github.io/output/HSP2023_maze/). 
+
+The notebooks can be run on Google Colab without any local installation of Python. To do so, click on the "open in Colab" button at the top of the notebook.
+
+We are currently working on more detailed documentation which should be available by the end of March 2023, but brief instructions are also provided within the notebooks themselves. If you have any questions, you can use the Discussions tab, and bugs or feature requests can be added as Issues. 
 
 ## Mandarin A-maze
+
+[Notebook](https://github.com/UMWordLab/multilingual_amaze/blob/main/Mandarin_A_maze_Alternative_Generation.ipynb)
 
 ## Multilingual A-maze
 
